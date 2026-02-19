@@ -1,6 +1,5 @@
-Slides/
-
-   1-semestre/
+Slides
+1-semestre
    
        Atividades desenvolvidas no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas. 
        Entre as atividades destaca-se a concepção teórica de um dispositivo inteligente voltado á cuidado e monitoramento de idosos, 
