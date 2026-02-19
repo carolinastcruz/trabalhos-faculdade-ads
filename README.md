@@ -5,5 +5,4 @@ durante o curso de Análise e Desenvolvimento de Sistemas.
 
 ## 📂 Estrutura
 
-- 📁 Slides
-- 📁 Atividades
+- 📁 Slides e Atividades
