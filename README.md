@@ -19,4 +19,4 @@ durante o curso de Análise e Desenvolvimento de Sistemas.
   
    3-semestre
   
-  Desenvolvimento de projetos acadêmicos mais estruturados, acompanhados de documentação e slides de apresentação, aplicando de forma prática os conhecimentos adquiridos ao longo do curso
+  Desenvolvimento de projetos acadêmicos mais estruturados, acompanhados de documentação e slides de apresentação, aplicando de forma prática conceitos de modelagem, levantamento de requisitos e estruturação de sistemas.
